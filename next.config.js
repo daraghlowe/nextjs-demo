@@ -13,3 +13,5 @@ function atlas_cache_handler() {
 
     return undefined
 }
+
+module.exports = nextConfig
